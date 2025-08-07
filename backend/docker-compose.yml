@@ -1,0 +1,23 @@
+services:
+  api:
+    build: .
+    image: iso-apimopi
+    container_name: cont-apimopi
+    ports:
+      - "8000:80"
+    volumes:
+      - .:/code
+    restart: unless-stopped
+  
+  # En caso de querer probar la aplicación utilizando una base
+  # de datos local de redis, descomentar las lineas inferiores
+  
+  #   depends_on:
+  #     - redis
+
+  # redis:
+  #   image: redis
+  #   container_name: redis
+  #   ports:
+  #     - "6379:6379"
+  #   restart: unless-stopped
