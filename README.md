@@ -54,10 +54,10 @@
 ## 📝 API Endpoints
 
 | Endpoint           | Método | Descripción                  |
-| ------------------ | ------ | ---------------------------- | --------- |
+| ------------------ | ------ | ---------------------------- |
 | `/download-audio/` | POST   | Descarga audio desde URL     |
 | `/iframe-sc/`      | POST   | Obtiene iframe de SoundCloud |
-| `/docs`            | GET    | Documentación interactiva    | [9](#0-8) |
+| `/docs`            | GET    | Documentación interactiva    |
 
 ## ⚙️ Configuración
 
