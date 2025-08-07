@@ -1,6 +1,10 @@
-## 🎵 MOPI - Tu Música, Gratis [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/franklinnot/Mopi-Sound)
+<img src="https://raw.githubusercontent.com/franklinnot/MopiSound/refs/heads/main/frontend/public/icon.svg" width="100" height="100" />
+
+## MOPI - Tu Música, Gratis [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/franklinnot/Mopi-Sound)
 
 **MOPI** es una aplicación web que te permite descargar audio de alta calidad desde YouTube y SoundCloud de forma simple y rápida.
+
+👉 **Puedes probarla aquí:** https://mopi-592fa.web.app/
 
 ## ✨ Características
 
